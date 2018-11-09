@@ -5,3 +5,4 @@ config.core.php
 manager/config.core.php
 connectors/config.core.php
 Gitify/
+dev/
